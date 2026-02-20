@@ -1,7 +1,7 @@
 {
   "name": "Prodigy Physics",
   "short_name": "Prodigy",
-  "start_url": "https://roushanvaishnav.github.io/prodigy-app/index.html",
+  "start_url": "https://roushanvaishnav.github.io/prodigy-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
